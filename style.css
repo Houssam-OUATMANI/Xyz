@@ -1,0 +1,12 @@
+div {
+    display: none;
+}
+
+.afficher {
+    display: block;
+    background-color: orangered;
+}
+
+.color {
+    background-color: rgb(19, 17, 17);
+}
